@@ -1,8 +1,8 @@
 {
   "version": 1,
   "packs": [
-    {"name": "aws", "source": "github.com/dg-packs/aws", "description": "AWS services and resources", "license": "see NOTICE"},
-    {"name": "azure", "source": "github.com/dg-packs/azure", "description": "Azure services and resources", "license": "see NOTICE"},
-    {"name": "gcp", "source": "github.com/dg-packs/gcp", "description": "Google Cloud services and resources", "license": "see NOTICE"}
+    {"name": "aws", "source": "github.com/dg-packs/aws", "description": "Kinds for AWS architecture diagrams, without icons; not made or endorsed by AWS", "license": "see NOTICE"},
+    {"name": "azure", "source": "github.com/dg-packs/azure", "description": "Azure services and boundaries, without Microsoft's icons; not made or endorsed by Microsoft", "license": "see NOTICE"},
+    {"name": "gcp", "source": "github.com/dg-packs/gcp", "description": "Kinds for Google Cloud products, with project, region and network boundaries; without icons, not affiliated with Google", "license": "see NOTICE"}
   ]
 }
